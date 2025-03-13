@@ -12,5 +12,9 @@ Fractions-->numberline
 numberline-->negative-numbers
 Multiplication-->Exponents-->Roots-->Quadratic-equations-->Quadratic-formula-->Imaginary-numbers
 Quadratic-formula--> Parabola
+Exponents-->logarithms
+Quadratic-formula-->Imaginary-Numbers
+Imaginary-Numbers-->2d-number-line
+
 
 ```
