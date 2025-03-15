@@ -11,11 +11,12 @@ Addition-->Summation
 Fractions-->decimal
 Fractions-->numberline
 numberline-->negative-numbers
-Multiplication-->Exponents-->Roots-->Quadratic-equations-->Quadratic-formula-->Imaginary-numbers
+Multiplication-->Exponents-->Roots-->Quadratic-equations-->Quadratic-formula-->Imaginary-Numbers
 Quadratic-formula--> Parabola
 Exponents-->logarithms-->logarithmic-function
 Quadratic-formula-->Imaginary-Numbers
 Imaginary-Numbers-->2d-number-line
+Imaginary-Numbers-->Factorization
 numberline-->absolute-value
 
 Geometry-->Shapes
